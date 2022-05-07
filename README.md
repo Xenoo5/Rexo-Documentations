@@ -21,5 +21,5 @@
 -Following people can access reports: *Bot developer(s)
 
 # How can I Contact the owner/developer?
-If you have specific questions about our privacy policy you simply join our discord Support Server. or contact </Xebec>#3585 on Discord.
+If you have specific questions about our privacy policy you simply join our discord Support Server. or contact `</Xebec>`#3585 on Discord.
 
